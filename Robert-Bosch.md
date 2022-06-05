@@ -22,5 +22,9 @@ Basic C questions to check our proficiency on C-language
 int iTemp = -1;
 printf("%X\n", (iTemp << 4));
 ```
+The answer is
+```
+FFFFFFF0
+```
 
 
