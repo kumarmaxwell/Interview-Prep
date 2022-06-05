@@ -17,3 +17,8 @@ Basic C questions to check our proficiency on C-language
 #define TOGGLE_BIT(in_uiNumber, in_ucPos) (in_uiNumber ^= (1 << in_ucPos))
 ```
 
+4. What will be the output of the below snippet? Explain How ?
+```
+int iTemp = -1;
+printf("%X\n", (iTemp << 4));
+```
