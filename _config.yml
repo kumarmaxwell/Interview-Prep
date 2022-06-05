@@ -1,1 +1,6 @@
 theme: jekyll-theme-cayman
+
+include:
+  - index.md
+  - Robert-Bosch.md
+  
